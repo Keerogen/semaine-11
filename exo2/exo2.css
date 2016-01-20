@@ -1,0 +1,72 @@
+h1,label {
+	color:#CE0C0C;
+	
+}
+
+body {
+ background:url(../exo2/img/trek.jpg);
+ 
+}
+#jeux { 
+ padding:1px;
+ font-size:15px;
+ border-width:3px;
+ background-color:#2980b9;
+ border-color:#2980b9;
+ border-style:dashed;
+ color:#CE0C5A;
+ box-shadow: 1px -1px 24px 0px rgba(9,0,255,.96);
+ }
+ 
+#jeux:focus { 
+ outline:none; 
+} 
+
+#button {
+  background: #CE0C5A;
+  background-image: -webkit-linear-gradient(top, #CE0C5A, #2980b9);
+  background-image: -moz-linear-gradient(top, #CE0C5A, #2980b9);
+  background-image: -ms-linear-gradient(top, #CE0C5A, #2980b9);
+  background-image: -o-linear-gradient(top, #CE0C5A, #2980b9);
+  background-image: linear-gradient(to bottom, #CE0C5A, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 25px;
+  font-family: Arial;
+  color: #1100ff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+#button:hover {
+  background: #CE0C5A;
+  background-image: -webkit-linear-gradient(top, #CE0C5A, #3498db);
+  background-image: -moz-linear-gradient(top, #CE0C5A, #3498db);
+  background-image: -ms-linear-gradient(top, #CE0C5A, #3498db);
+  background-image: -o-linear-gradient(top, #CE0C5A, #3498db);
+  background-image: linear-gradient(to bottom, #CE0C5A, #3498db);
+  text-decoration: none;
+}
+.sucabliat{
+	margin-left:600px;
+	margin-top: 0px;
+}
+p{
+	color:#CE0C0C;
+	font-size:20px;
+}
+audio{
+ 	margin-left:50px;
+ 	margin-top: 600px;
+}
+#affichage {
+    font-size:50px;
+    border-color:black;
+    border: 5px groove;
+    margin-left:300px;
+    margin-right:300px;
+    margin-top:30px;
+    font-family:comic;
+    color: red;
+}

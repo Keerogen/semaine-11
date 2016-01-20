@@ -1,0 +1,23 @@
+#proposition {
+    width: 300px;
+    margin: 1px;
+    height: 30px;
+    padding-left: 5px;
+    
+}
+#bouton {
+  border-radius: 28px;
+  font-family: verdana;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  height: 50px;
+  background-color: #40A497;
+}
+#resultat {
+    border: 1px #000 dashed;
+    margin: 0 1em;
+    line-height: 2em;
+    padding-left: 0.5em;
+}
+
